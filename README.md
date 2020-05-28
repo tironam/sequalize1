@@ -1,1 +1,1 @@
-# sequalize1
+# sqlz01
